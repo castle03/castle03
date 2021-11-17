@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @castle03
-- 👀 I’m interested in ...php and python
-- 🌱 I’m currently learning ...how to work with fingerprint in php
-- 💞️ I’m looking to collaborate on ...biometric project using php
+- 👀 I’m interested in ...php, c++ and python
+- 🌱 I’m currently developing websites and designing systems
 - 📫 castorypaschal03@gmail.com 
 
 <!---
